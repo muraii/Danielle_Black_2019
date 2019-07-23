@@ -1,0 +1,14 @@
+{
+  "name": "Danielle_Black_2019",
+  "version": "1.0.0",
+  "description": "Website for Danielle Black 2019 Campaign",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danielle Black",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  }
+}
